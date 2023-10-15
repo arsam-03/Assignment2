@@ -1,0 +1,86 @@
+.header {
+    color: red;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.header2 {
+    color: purple;
+}
+.header3 {
+    color: aqua;
+}
+.header5 {
+    color: lightcoral;
+}
+.header6 {
+    color: blueviolet;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.header7 {
+    color: rgb(122, 0, 75);
+}
+.header8 {
+    color: rgb(165, 19, 0);
+}
+.para1 {
+    font-size: 20px;
+}
+.para2 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    border: 10px dashed;
+}
+.para3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 17px;
+    padding: 30px;
+    border: 90px dashed mediumorchid;
+}
+.para4 {
+    text-transform: uppercase;
+    color: aquamarine;
+}
+.para5 {
+    text-transform: lowercase;
+    font-size: 30px;
+    margin: 20px;
+    padding: 50%;
+    border: 20px dotted burlywood;
+    width: 100%;
+}
+.box1 {
+    position: absolute;
+    top: 20px;
+    left: 25%;
+}
+.box2 {
+    position: fixed;
+    top: 0%;
+    left: 1%;
+}
+body {
+    position: relative;
+}
+.box3 {
+    position: relative;
+    top: 20px;
+    left: 10px; 
+    background-color: lightblue;
+    padding: 10px;
+}
+.parent li {
+    border: 1px solid red;
+    background-color: aqua;
+}
+.parent2 li {
+    border: 1px solid orange;
+    background-color: blanchedalmond;
+}
+.selector1, .para3 {
+    color: red;
+}
+.selector2, .para2 {
+    color: aquamarine;
+    background-color: black;
+}
